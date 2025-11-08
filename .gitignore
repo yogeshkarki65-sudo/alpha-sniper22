@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+backup/
+*.tar.gz
+data/
+logs/
+*.csv
