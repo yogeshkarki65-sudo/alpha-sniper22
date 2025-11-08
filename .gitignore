@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+data/
+logs/
+*.log
+.env
+*.pem
+*.key
+rotated_signals/
+backup/
